@@ -1,0 +1,10 @@
+[
+  {
+    "package": "codebook",
+    "oncran": true
+  },
+  {
+    "package": "rmdpartials",
+    "oncran": true
+  }
+]
