@@ -5,6 +5,9 @@
 [submodule "codebook"]
 	path = codebook
 	url = https://github.com/rubenarslan/codebook
+[submodule "formr"]
+	path = formr
+	url = https://github.com/rubenarslan/formr
 [submodule "rmdpartials"]
 	path = rmdpartials
 	url = https://github.com/rubenarslan/rmdpartials
